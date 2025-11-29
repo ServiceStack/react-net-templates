@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Tell Tailwind v4 where to find classes */
+@source "../src/**/*.{ts,tsx}";
+@source "./**/*.{ts,tsx}";
+
+/* Enable class-based dark mode */
+@custom-variant dark (&:where(.dark, .dark *));
+
