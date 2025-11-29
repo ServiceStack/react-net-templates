@@ -1,6 +1,6 @@
 {
   "name": "react-net-templates",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Shared React Tailwind Components for react-templates.net project templates",
   "type": "module",
   "main": "./dist/index.cjs",
