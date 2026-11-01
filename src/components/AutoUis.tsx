@@ -30,7 +30,7 @@ const slides: Slide[] = [
         summary: 'Instant CRUD App for each data model with paging, sorting, filters, lookups and Create & Edit forms',
         image: 'https://docs.servicestack.net/img/pages/builtin-uis/03-auto-JobApplication.webp',
         url: 'https://docs.servicestack.net/autoquery-schema',
-        path: '/auto/JobApplication',
+        path: '/auto/Booking',
     },
     {
         title: 'API Schema',
@@ -44,7 +44,7 @@ const slides: Slide[] = [
         summary: 'Executable UI for each API with form, validation, request preview, curl command and JSON Schema',
         image: 'https://docs.servicestack.net/img/pages/builtin-uis/05-schema-CreateContact.webp',
         url: 'https://docs.servicestack.net/api-schema',
-        path: '/schema/CreateContact',
+        path: '/schema/CreateBooking',
     },
     {
         title: 'Admin UI Dashboard',
